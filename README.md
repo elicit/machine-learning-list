@@ -464,8 +464,12 @@ Recommended reading order:
 
 ### Planning
 
+<details><summary><strong>Tier 4+</strong></summary>
+
 - ✨ [Beyond A*: Better Planning with Transformers via Search Dynamics Bootstrapping](http://arxiv.org/abs/2402.14083)
 - ✨ [Cognitive Architectures for Language Agents](http://arxiv.org/abs/2309.02427)
+
+</details>
 
 ### Uncertainty, calibration, and active learning
 
