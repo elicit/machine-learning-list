@@ -27,7 +27,7 @@ Recommended reading order:
   * [In-context reasoning](#in-context-reasoning)
   * [Task decomposition](#task-decomposition)
   * [Debate](#debate)
-  * [Tool use and other scaffolding](#tool-use-and-other-scaffolding)
+  * [Tool use and scaffolding](#tool-use-and-scaffolding)
   * [Honesty, factuality, and epistemics](#honesty-factuality-and-epistemics)
 - [Applications](#applications)
   * [Science](#science)
