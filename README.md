@@ -18,7 +18,37 @@ Recommended reading order:
 
 ## Table of contents
 
-<!-- toc -->
+- [Fundamentals](#fundamentals)
+  * [Introduction to machine learning](#introduction-to-machine-learning)
+  * [Transformers](#transformers)
+  * [Key foundation model architectures](#key-foundation-model-architectures)
+  * [Training and finetuning](#training-and-finetuning)
+- [Reasoning and runtime strategies](#reasoning-and-runtime-strategies)
+  * [In-context reasoning](#in-context-reasoning)
+  * [Task decomposition](#task-decomposition)
+  * [Debate](#debate)
+  * [Tool use and other scaffolding](#tool-use-and-other-scaffolding)
+  * [Honesty, factuality, and epistemics](#honesty-factuality-and-epistemics)
+- [Applications](#applications)
+  * [Science](#science)
+  * [Forecasting](#forecasting)
+  * [Search and ranking](#search-and-ranking)
+- [ML in practice](#ml-in-practice)
+  * [Production deployment](#production-deployment)
+  * [Benchmarks](#benchmarks)
+  * [Datasets](#datasets)
+- [Advanced topics](#advanced-topics)
+  * [World models and causality](#world-models-and-causality)
+  * [Planning](#planning)
+  * [Uncertainty, calibration, and active learning](#uncertainty-calibration-and-active-learning)
+  * [Interpretability and model editing](#interpretability-and-model-editing)
+  * [Reinforcement learning](#reinforcement-learning)
+- [The big picture](#the-big-picture)
+  * [AI scaling](#ai-scaling)
+  * [AI safety](#ai-safety)
+  * [Economic and social impacts](#economic-and-social-impacts)
+  * [Philosophy](#philosophy)
+- [Maintainer](#maintainer)
 
 ## Fundamentals
 
