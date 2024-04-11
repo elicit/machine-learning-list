@@ -285,6 +285,7 @@ Recommended reading order:
 **Tier 2**
 
 - ✨ [Measuring the impact of post-training enhancements](https://metr.github.io/autonomy-evals-guide/elicitation-gap/)
+- [WebGPT: Browser-assisted question-answering with human feedback](https://arxiv.org/abs/2112.09332)
 
 **Tier 3**
 
@@ -364,7 +365,6 @@ Recommended reading order:
 
 - [Learning Dense Representations of Phrases at Scale](https://arxiv.org/abs/2012.12624)
 - [Text and Code Embeddings by Contrastive Pre-Training](https://arxiv.org/abs/2201.10005) (OpenAI embeddings)
-- [WebGPT: Browser-assisted question-answering with human feedback](https://arxiv.org/abs/2112.09332)
 
 **Tier 3**
 
