@@ -202,13 +202,7 @@ Recommended reading order:
 **Tier 3**
 
 - ✨ [Chain-of-Thought Reasoning Without Prompting](http://arxiv.org/abs/2402.10200)
-
-<details><summary><strong>Tier 4+</strong></summary>
-
-- [Rethinking the Role of Demonstrations: What Makes In-Context Learning Work?](https://arxiv.org/abs/2202.12837)
-- [Surface Form Competition: Why the Highest Probability Answer Isn’t Always Right](https://arxiv.org/abs/2104.08315)
-
-</details>
+- ✨ [Why think step-by-step? Reasoning emerges from the locality of experience](http://arxiv.org/abs/2304.03843)
 
 <details><summary><strong>Tier 4+</strong></summary>
 
@@ -220,6 +214,8 @@ Recommended reading order:
 - ✨ [Large Language Models Cannot Self-Correct Reasoning Yet](https://arxiv.org/abs/2310.01798v1)
 - ✨ [Stream of Search (SoS): Learning to Search in Language](http://arxiv.org/abs/2404.03683)
 - ✨ [Training Chain-of-Thought via Latent-Variable Inference](http://arxiv.org/abs/2312.02179)
+- [Rethinking the Role of Demonstrations: What Makes In-Context Learning Work?](https://arxiv.org/abs/2202.12837)
+- [Surface Form Competition: Why the Highest Probability Answer Isn’t Always Right](https://arxiv.org/abs/2104.08315)
 
 </details>
 
@@ -234,17 +230,16 @@ Recommended reading order:
 
 - ✨ [Tree of Thoughts: Deliberate Problem Solving with Large Language Models](http://arxiv.org/abs/2305.10601)
 - [Factored cognition](https://ought.org/research/factored-cognition)
-- [Iterated Decomposition: Improving Science Q&A by Supervising Reasoning Processes](https://arxiv.org/abs/2301.01751)
 - [Iterated Distillation and Amplification](https://ai-alignment.com/iterated-distillation-and-amplification-157debfd1616)
 - [Recursively Summarizing Books with Human Feedback](https://arxiv.org/abs/2109.10862)
 - [Solving math word problems with process-based and outcome-based feedback](https://arxiv.org/abs/2211.14275)
 
 **Tier 3**
 
-- ✨ [Why think step-by-step? Reasoning emerges from the locality of experience](http://arxiv.org/abs/2304.03843)
 - [Evaluating Arguments One Step at a Time](https://ought.org/updates/2020-01-11-arguments)
 - [Faithful Reasoning Using Large Language Models](https://arxiv.org/abs/2208.14271)
 - [Humans consulting HCH](https://ai-alignment.com/humans-consulting-hch-f893f6051455)
+- [Iterated Decomposition: Improving Science Q&A by Supervising Reasoning Processes](https://arxiv.org/abs/2301.01751)
 - [Language Model Cascades](https://arxiv.org/abs/2207.10342)
 
 <details><summary><strong>Tier 4+</strong></summary>
@@ -285,7 +280,7 @@ Recommended reading order:
 
 </details>
 
-### Tool use and other scaffolding
+### Tool use and scaffolding
 
 **Tier 2**
 
@@ -293,11 +288,11 @@ Recommended reading order:
 
 **Tier 3**
 
+- ✨ [AI capabilities can be significantly improved without expensive retraining](http://arxiv.org/abs/2312.07413)
 - ✨ [Automated Statistical Model Discovery with Language Models](http://arxiv.org/abs/2402.17879)
 
 <details><summary><strong>Tier 4+</strong></summary>
 
-- ✨ [AI capabilities can be significantly improved without expensive retraining](http://arxiv.org/abs/2312.07413)
 - ✨ [DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines](http://arxiv.org/abs/2310.03714)
 - ✨ [Promptbreeder: Self-Referential Self-Improvement Via Prompt Evolution](http://arxiv.org/abs/2309.16797)
 - ✨ [Self-Taught Optimizer (STOP): Recursively Self-Improving Code Generation](https://arxiv.org/abs/2310.02304v1)
