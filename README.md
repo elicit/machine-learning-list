@@ -92,7 +92,7 @@ Recommended reading order:
 - [Grokking: Generalization Beyond Overfitting on Small Algorithmic Datasets](https://arxiv.org/abs/2201.02177)
 - [A Mathematical Framework for Transformer Circuits](https://transformer-circuits.pub/2021/framework/index.html)
 
-<details><summary>**Tier 4+**</summary>
+<details><summary><strong>Tier 4+</strong></summary>
 
 - ✨ [Compositional Capabilities of Autoregressive Transformers: A Study on Synthetic, Interpretable Tasks](https://arxiv.org/abs/2311.12997)
 - [Memorizing Transformers](https://arxiv.org/abs/2203.08913)
@@ -123,7 +123,7 @@ Recommended reading order:
 - ✨ [Textbooks Are All You Need II: phi-1.5 technical report](http://arxiv.org/abs/2309.05463) (phi 1.5)
 - [Scaling Instruction-Finetuned Language Models](https://arxiv.org/abs/2210.11416) (Flan)
 
-<details><summary>**Tier 4+**</summary>
+<details><summary><strong>Tier 4+</strong></summary>
 
 - ✨ [Consistency Models](http://arxiv.org/abs/2303.01469)
 - ✨ [Model Card and Evaluations for Claude Models](https://www-cdn.anthropic.com/bd2a28d2535bfb0494cc8e2a3bf135d2e7523226/Model-Card-Claude-2.pdf) (Claude 2)
@@ -159,7 +159,7 @@ Recommended reading order:
 - [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685)
 - [Unsupervised Neural Machine Translation with Generative Language Models Only](https://arxiv.org/abs/2110.05448)
 
-<details><summary>**Tier 4+**</summary>
+<details><summary><strong>Tier 4+</strong></summary>
 
 - ✨ [Beyond Human Data: Scaling Self-Training for Problem-Solving with Language Models](http://arxiv.org/abs/2312.06585)
 - ✨ [Improving Code Generation by Training with Natural Language Feedback](http://arxiv.org/abs/2303.16749)
@@ -203,14 +203,14 @@ Recommended reading order:
 
 - ✨ [Chain-of-Thought Reasoning Without Prompting](http://arxiv.org/abs/2402.10200)
 
-<details><summary>**Tier 4+**</summary>
+<details><summary><strong>Tier 4+</strong></summary>
 
 - [Rethinking the Role of Demonstrations: What Makes In-Context Learning Work?](https://arxiv.org/abs/2202.12837)
 - [Surface Form Competition: Why the Highest Probability Answer Isn’t Always Right](https://arxiv.org/abs/2104.08315)
 
 </details>
 
-<details><summary>**Tier 4+**</summary>
+<details><summary><strong>Tier 4+</strong></summary>
 
 - ✨ [Baldur: Whole-Proof Generation and Repair with Large Language Models](https://arxiv.org/abs/2303.04910v1)
 - ✨ [Bias-Augmented Consistency Training Reduces Biased Reasoning in Chain-of-Thought](http://arxiv.org/abs/2403.05518)
@@ -247,7 +247,7 @@ Recommended reading order:
 - [Humans consulting HCH](https://ai-alignment.com/humans-consulting-hch-f893f6051455)
 - [Language Model Cascades](https://arxiv.org/abs/2207.10342)
 
-<details><summary>**Tier 4+**</summary>
+<details><summary><strong>Tier 4+</strong></summary>
 
 - ✨ [Decontextualization: Making Sentences Stand-Alone](https://doi.org/10.1162/tacl_a_00377)
 - ✨ [Factored Cognition Primer](https://primer.ought.org)
@@ -278,7 +278,7 @@ Recommended reading order:
 - ✨ [Debate Helps Supervise Unreliable Experts](https://twitter.com/joshua_clymer/status/1724851456967417872)
 - [Two-Turn Debate Doesn’t Help Humans Answer Hard Reading Comprehension Questions](https://arxiv.org/abs/2210.10860)
 
-<details><summary>**Tier 4+**</summary>
+<details><summary><strong>Tier 4+</strong></summary>
 
 - ✨ [Scalable AI Safety via Doubly-Efficient Debate](http://arxiv.org/abs/2311.14125)
 - ✨ [Improving Factuality and Reasoning in Language Models through Multiagent Debate](http://arxiv.org/abs/2305.14325)
@@ -295,7 +295,7 @@ Recommended reading order:
 
 - ✨ [Automated Statistical Model Discovery with Language Models](http://arxiv.org/abs/2402.17879)
 
-<details><summary>**Tier 4+**</summary>
+<details><summary><strong>Tier 4+</strong></summary>
 
 - ✨ [AI capabilities can be significantly improved without expensive retraining](http://arxiv.org/abs/2312.07413)
 - ✨ [DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines](http://arxiv.org/abs/2310.03714)
@@ -317,7 +317,7 @@ Recommended reading order:
 - ✨ [What Evidence Do Language Models Find Convincing?](http://arxiv.org/abs/2402.11782)
 - ✨ [How to Catch an AI Liar: Lie Detection in Black-Box LLMs by Asking Unrelated Questions](https://arxiv.org/abs/2309.15840)
 
-<details><summary>**Tier 4+**</summary>
+<details><summary><strong>Tier 4+</strong></summary>
 
 - ✨ [Language Models Don't Always Say What They Think: Unfaithful Explanations in Chain-of-Thought Prompting](http://arxiv.org/abs/2305.04388)
 - ✨ [Long-form factuality in large language models](http://arxiv.org/abs/2403.18802)
@@ -335,7 +335,7 @@ Recommended reading order:
 - ✨ [The Impact of Large Language Models on Scientific Discovery: a Preliminary Study using GPT-4](http://arxiv.org/abs/2311.07361)
 - [A Dataset of Information-Seeking Questions and Answers Anchored in Research Papers](https://arxiv.org/abs/2105.03011)
 
-<details><summary>**Tier 4+**</summary>
+<details><summary><strong>Tier 4+</strong></summary>
 
 - ✨ [Can Generalist Foundation Models Outcompete Special-Purpose Tuning? Case Study in Medicine](http://arxiv.org/abs/2311.16452)
 - ✨ [Nougat: Neural Optical Understanding for Academic Documents](http://arxiv.org/abs/2308.13418)
@@ -377,7 +377,7 @@ Recommended reading order:
 - [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401)
 - [Task-aware Retrieval with Instructions](https://arxiv.org/abs/2211.09260)
 
-<details><summary>**Tier 4+**</summary>
+<details><summary><strong>Tier 4+</strong></summary>
 
 - ✨ [RankZephyr: Effective and Robust Zero-Shot Listwise Reranking is a Breeze!](http://arxiv.org/abs/2312.02724)
 - ✨ [Some Common Mistakes In IR Evaluation, And How They Can Be Avoided](https://dl.acm.org/doi/10.1145/3190580.3190586)
@@ -419,7 +419,7 @@ Recommended reading order:
 - [RAFT: A Real-World Few-Shot Text Classification Benchmark](https://arxiv.org/abs/2109.14076)
 - [True Few-Shot Learning with Language Models](https://arxiv.org/abs/2105.11447)
 
-<details><summary>**Tier 4+**</summary>
+<details><summary><strong>Tier 4+</strong></summary>
 
 - ✨ [GAIA: a benchmark for General AI Assistants](http://arxiv.org/abs/2311.12983)
 - [ConditionalQA: A Complex Reading Comprehension Dataset with Conditional Answers](https://arxiv.org/abs/2110.06884)
@@ -454,7 +454,7 @@ Recommended reading order:
 - ✨ [From Word Models to World Models: Translating from Natural Language to the Probabilistic Language of Thought](http://arxiv.org/abs/2306.12672)
 - [Language Models Represent Space and Time](http://arxiv.org/abs/2310.02207)
 
-<details><summary>**Tier 4+**</summary>
+<details><summary><strong>Tier 4+</strong></summary>
 
 - ✨ [Amortizing intractable inference in large language models](http://arxiv.org/abs/2310.04363)
 - ✨ [CLADDER: Assessing Causal Reasoning in Language Models](http://zhijing-jin.com/files/papers/CLadder_2023.pdf)
@@ -486,7 +486,7 @@ Recommended reading order:
 - [Describing Differences between Text Distributions with Natural Language](https://arxiv.org/abs/2201.12323)
 - [Teaching Models to Express Their Uncertainty in Words](https://arxiv.org/abs/2205.14334)
 
-<details><summary>**Tier 4+**</summary>
+<details><summary><strong>Tier 4+</strong></summary>
 
 - ✨ [Doing Experiments and Revising Rules with Natural Language and Probabilistic Reasoning](http://arxiv.org/abs/2402.06025)
 - ✨ [STaR-GATE: Teaching Language Models to Ask Clarifying Questions](http://arxiv.org/abs/2403.19154)
@@ -509,7 +509,7 @@ Recommended reading order:
 - ✨ [Studying Large Language Model Generalization with Influence Functions](http://arxiv.org/abs/2308.03296)
 - [Interpretability in the Wild: a Circuit for Indirect Object Identification in GPT-2 small](https://arxiv.org/abs/2211.00593)
 
-<details><summary>**Tier 4+**</summary>
+<details><summary><strong>Tier 4+</strong></summary>
 
 - ✨ [Codebook Features: Sparse and Discrete Interpretability for Neural Networks](http://arxiv.org/abs/2310.17230)
 - ✨ [Eliciting Latent Predictions from Transformers with the Tuned Lens](http://arxiv.org/abs/2303.08112)
@@ -541,7 +541,7 @@ Recommended reading order:
 - [Mastering Atari Games with Limited Data](https://arxiv.org/abs/2111.00210) (EfficientZero)
 - [Mastering Stratego, the classic game of imperfect information](https://www.science.org/doi/10.1126/science.add4679) (DeepNash)
 
-<details><summary>**Tier 4+**</summary>
+<details><summary><strong>Tier 4+</strong></summary>
 
 - ✨ [AlphaStar Unplugged: Large-Scale Offline Reinforcement Learning](http://arxiv.org/abs/2308.03526)
 - ✨ [Bayesian Reinforcement Learning with Limited Cognitive Load](http://arxiv.org/abs/2305.03263)
@@ -575,7 +575,7 @@ Recommended reading order:
 - [Emergent Abilities of Large Language Models](https://arxiv.org/abs/2206.07682)
 - [Transcending Scaling Laws with 0.1% Extra Compute](https://arxiv.org/abs/2210.11399) (U-PaLM)
 
-<details><summary>**Tier 4+**</summary>
+<details><summary><strong>Tier 4+</strong></summary>
 
 - ✨ [Physics of Language Models: Part 3.3, Knowledge Capacity Scaling Laws](http://arxiv.org/abs/2404.05405)
 - ✨ [Power Law Trends in Speedrunning and Machine Learning](http://arxiv.org/abs/2304.10004)
@@ -608,7 +608,7 @@ Recommended reading order:
 - [Risks from Learned Optimization in Advanced Machine Learning Systems](https://arxiv.org/abs/1906.01820)
 - [Scalable agent alignment via reward modelling](https://arxiv.org/abs/1811.07871)
 
-<details><summary>**Tier 4+**</summary>
+<details><summary><strong>Tier 4+</strong></summary>
 
 - ✨ [AI Deception: A Survey of Examples, Risks, and Potential Solutions](http://arxiv.org/abs/2308.14752)
 - ✨ [Benchmarks for Detecting Measurement Tampering](http://arxiv.org/abs/2308.15605)
@@ -637,7 +637,7 @@ Recommended reading order:
 - ✨ [Explosive growth from AI automation: A review of the arguments](http://arxiv.org/abs/2309.11690)
 - ✨ [Language Models Can Reduce Asymmetry in Information Markets](http://arxiv.org/abs/2403.14443)
 
-<details><summary>**Tier 4+**</summary>
+<details><summary><strong>Tier 4+</strong></summary>
 
 - ✨ [Bridging the Human-AI Knowledge Gap: Concept Discovery and Transfer in AlphaZero](http://arxiv.org/abs/2310.16410)
 - ✨ [Foundation Models and Fair Use](https://arxiv.org/abs/2303.15715v1)
@@ -654,7 +654,7 @@ Recommended reading order:
 
 - [Meaning without reference in large language models](https://arxiv.org/abs/2208.02957)
 
-<details><summary>**Tier 4+**</summary>
+<details><summary><strong>Tier 4+</strong></summary>
 
 - ✨ [Consciousness in Artificial Intelligence: Insights from the Science of Consciousness](http://arxiv.org/abs/2308.08708)
 - ✨ [Philosophers Ought to Develop, Theorize About, and Use Philosophically Relevant AI](https://philarchive.org/archive/CLAPOT-16)
