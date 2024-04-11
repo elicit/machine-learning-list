@@ -351,6 +351,8 @@ Recommended reading order:
 
 ### Forecasting
 
+**Tier 3**
+
 - ✨ [AI-Augmented Predictions: LLM Assistants Improve Human Forecasting Accuracy](https://arxiv.org/abs/2402.07862v1)
 - ✨ [Approaching Human-Level Forecasting with Language Models](http://arxiv.org/abs/2402.18563)
 - ✨ [Are Transformers Effective for Time Series Forecasting?](https://arxiv.org/abs/2205.13504)
