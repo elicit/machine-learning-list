@@ -236,7 +236,7 @@ Recommended reading order:
 
 **Tier 3**
 
-- [Evaluating Arguments One Step at a Time](https://ought.org/updates/2020-01-11-arguments)
+- ✨ [Factored Verification: Detecting and Reducing Hallucination in Summaries of Academic Papers](https://arxiv.org/abs/2310.10627)
 - [Faithful Reasoning Using Large Language Models](https://arxiv.org/abs/2208.14271)
 - [Humans consulting HCH](https://ai-alignment.com/humans-consulting-hch-f893f6051455)
 - [Iterated Decomposition: Improving Science Q&A by Supervising Reasoning Processes](https://arxiv.org/abs/2301.01751)
@@ -250,6 +250,7 @@ Recommended reading order:
 - ✨ [Parsel: A Unified Natural Language Framework for Algorithmic Reasoning](http://arxiv.org/abs/2212.10561)
 - [AI Chains: Transparent and Controllable Human-AI Interaction by Chaining Large Language Model Prompts](https://arxiv.org/abs/2110.01691)
 - [Challenging BIG-Bench tasks and whether chain-of-thought can solve them](https://arxiv.org/abs/2210.09261)
+- [Evaluating Arguments One Step at a Time](https://ought.org/updates/2020-01-11-arguments)
 - [Least-to-Most Prompting Enables Complex Reasoning in Large Language Models](https://arxiv.org/abs/2205.11822)
 - [Maieutic Prompting: Logically Consistent Reasoning with Recursive Explanations](https://arxiv.org/abs/2205.11822)
 - [Measuring and narrowing the compositionality gap in language models](https://arxiv.org/abs/2210.03350)
