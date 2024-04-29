@@ -76,16 +76,16 @@ Recommended reading order:
 
 - ✨ [But what is a GPT? Visual intro to transformers](https://www.youtube.com/watch?v=wjZofJX0v4M)
 - ✨ [Attention in transformers, visually explained](https://www.youtube.com/watch?v=eMlx5fFNoYc)
+- ✨ [Attention? Attention!](https://lilianweng.github.io/posts/2018-06-24-attention/)
 - [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
 - [The Illustrated GPT-2 (Visualizing Transformer Language Models)](https://jalammar.github.io/illustrated-gpt2/)
-- ✨ [Attention? Attention!](https://lilianweng.github.io/posts/2018-06-24-attention/)
 
 **Tier 2**
 
+- ✨ [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/pdf/1409.0473)
 - [The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
 - [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 - [A Practical Survey on Faster and Lighter Transformers](https://arxiv.org/abs/2103.14636)
-- ✨ [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/pdf/1409.0473)
 
 **Tier 3**
 
