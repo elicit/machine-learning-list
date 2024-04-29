@@ -85,7 +85,7 @@ Recommended reading order:
 - [The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
 - [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 - [A Practical Survey on Faster and Lighter Transformers](https://arxiv.org/abs/2103.14636)
-- ✨ [Neural Machine Translation by Jointly Learning to Align and Tcranslate](https://arxiv.org/pdf/1409.0473)
+- ✨ [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/pdf/1409.0473)
 
 **Tier 3**
 
