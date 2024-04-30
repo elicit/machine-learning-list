@@ -64,6 +64,7 @@ Recommended reading order:
 
 - [What is backpropagation really doing?](https://www.youtube.com/watch?v=Ilg3gGewQ5U&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=4)
 - [An introduction to deep reinforcement learning](https://thomassimonini.medium.com/an-introduction-to-deep-reinforcement-learning-17a565999c0c)
+- ✨ [An intuitive understanding of backpropagation](https://cs231n.github.io/optimization-2/)
 
 **Tier 3**
 
