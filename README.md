@@ -108,13 +108,11 @@ Recommended reading order:
 
 - [Language Models are Unsupervised Multitask Learners](https://www.semanticscholar.org/paper/Language-Models-are-Unsupervised-Multitask-Learners-Radford-Wu/9405cc0d6169988371b2755e573cc28650d14dfe) (GPT-2)
 - [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165) (GPT-3)
-- ✨ [Efficiently Modeling Long Sequences with Structured State Spaces](https://www.youtube.com/watch?v=EvQ3ncuriCM) (S4)
-
 
 **Tier 2**
 
 - ✨ [LLaMA: Open and Efficient Foundation Language Models](http://arxiv.org/abs/2302.13971) (LLaMA)
-- ✨ [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752v1) (Mamba)
+- ✨ [Efficiently Modeling Long Sequences with Structured State Spaces](https://arxiv.org/abs/2111.00396) ([video](https://www.youtube.com/watch?v=EvQ3ncuriCM)) (S4)
 - [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/abs/1910.10683) (T5)
 - [Evaluating Large Language Models Trained on Code](https://arxiv.org/abs/2107.03374) (OpenAI Codex)
 - [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155) (OpenAI Instruct)
@@ -124,7 +122,7 @@ Recommended reading order:
 - ✨ [Mistral 7B](http://arxiv.org/abs/2310.06825) (Mistral)
 - ✨ [Mixtral of Experts](http://arxiv.org/abs/2401.04088) (Mixtral)
 - ✨ [Gemini: A Family of Highly Capable Multimodal Models](https://storage.googleapis.com/deepmind-media/gemini/gemini_1_report.pdf) (Gemini)
-- ✨ [Textbooks Are All You Need II: phi-1.5 technical report](http://arxiv.org/abs/2309.05463) (phi 1.5)
+- ✨ [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752v1) (Mamba)
 - [Scaling Instruction-Finetuned Language Models](https://arxiv.org/abs/2210.11416) (Flan)
 
 <details><summary><strong>Tier 4+</strong></summary>
@@ -133,6 +131,7 @@ Recommended reading order:
 - ✨ [Model Card and Evaluations for Claude Models](https://www-cdn.anthropic.com/bd2a28d2535bfb0494cc8e2a3bf135d2e7523226/Model-Card-Claude-2.pdf) (Claude 2)
 - ✨ [OLMo: Accelerating the Science of Language Models](http://arxiv.org/abs/2402.00838)
 - ✨ [PaLM 2 Technical Report](https://arxiv.org/abs/2305.10403) (Palm 2)
+- ✨ [Textbooks Are All You Need II: phi-1.5 technical report](http://arxiv.org/abs/2309.05463) (phi 1.5)
 - ✨ [Visual Instruction Tuning](http://arxiv.org/abs/2304.08485) (LLaVA)
 - [A General Language Assistant as a Laboratory for Alignment](https://arxiv.org/abs/2112.00861)
 - [Finetuned Language Models Are Zero-Shot Learners](https://arxiv.org/abs/2109.01652) (Google Instruct)
@@ -185,7 +184,6 @@ Recommended reading order:
 - [Diffusion-LM Improves Controllable Text Generation](https://arxiv.org/abs/2205.14217)
 - [ERNIE 3.0: Large-scale Knowledge Enhanced Pre-training for Language Understanding and Generation](https://arxiv.org/abs/2107.02137)
 - [Efficient Training of Language Models to Fill in the Middle](https://arxiv.org/abs/2207.14255)
-- [Efficiently Modeling Long Sequences with Structured State Spaces](https://arxiv.org/abs/2111.00396)
 - [ExT5: Towards Extreme Multi-Task Scaling for Transfer Learning](https://arxiv.org/abs/2111.10952)
 - [Prefix-Tuning: Optimizing Continuous Prompts for Generation](https://arxiv.org/abs/2101.00190)
 - [Self-Attention Between Datapoints: Going Beyond Individual Input-Output Pairs in Deep Learning](https://arxiv.org/abs/2106.02584)
