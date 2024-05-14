@@ -83,13 +83,14 @@ Recommended reading order:
 
 **Tier 2**
 
+- ✨ [Let's build the GPT Tokenizer](https://www.youtube.com/watch?v=zduSFxRajkE)
 - ✨ [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/pdf/1409.0473)
 - [The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
 - [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
-- [A Practical Survey on Faster and Lighter Transformers](https://arxiv.org/abs/2103.14636)
 
 **Tier 3**
 
+- [A Practical Survey on Faster and Lighter Transformers](https://arxiv.org/abs/2103.14636)
 - [TabPFN: A Transformer That Solves Small Tabular Classification Problems in a Second](https://arxiv.org/abs/2207.01848)
 - [Grokking: Generalization Beyond Overfitting on Small Algorithmic Datasets](https://arxiv.org/abs/2201.02177)
 - [A Mathematical Framework for Transformer Circuits](https://transformer-circuits.pub/2021/framework/index.html)
