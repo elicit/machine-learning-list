@@ -406,6 +406,11 @@ Recommended reading order:
 
 ### Benchmarks
 
+**Tier 1**
+- ✨ [Know What You Don’t Know: Unanswerable Questions for SQuAD](https://arxiv.org/pdf/1806.03822)
+- ✨ [SuperGLUE: A Stickier Benchmark for General-Purpose Language Understanding Systems](https://arxiv.org/pdf/1905.00537)
+- ✨ [GLUE: A multi-task benchmark and analysis platform for natural language understanding](https://arxiv.org/pdf/1804.07461)
+
 **Tier 2**
 
 - ✨ [GPQA: A Graduate-Level Google-Proof Q&A Benchmark](http://arxiv.org/abs/2311.12022)
