@@ -68,14 +68,14 @@ Recommended reading order:
 
 **Tier 3**
 
-- [The spelled-out intro to neural networks and backpropagation: building micrograd](https://www.youtube.com/watch?v=VMj-3S1tku0)
+- [The spelled-out intro to neural networks and backpropagation: building micrograd](https://www.youtube.com/watch?v=VMj-3S1tku0) (Karpathy)
 - [Backpropagation calculus](https://www.youtube.com/watch?v=tIeHLnjs5U8&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=5)
 
 ### Transformers
 
 **Tier 1**
 
-- ✨ [Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g)
+- ✨ [Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g) (Karpathy)
 - [But what is a GPT? Visual intro to transformers](https://www.youtube.com/watch?v=wjZofJX0v4M)
 - [Attention in transformers, visually explained](https://www.youtube.com/watch?v=eMlx5fFNoYc)
 - [Attention? Attention!](https://lilianweng.github.io/posts/2018-06-24-attention/)
@@ -83,22 +83,23 @@ Recommended reading order:
 
 **Tier 2**
 
-- ✨ [Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI)
-- [Let's build the GPT Tokenizer](https://www.youtube.com/watch?v=zduSFxRajkE)
+- ✨ [Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI) (Karpathy)
+- [Let's build the GPT Tokenizer](https://www.youtube.com/watch?v=zduSFxRajkE) (Karpathy)
 - [The Illustrated GPT-2 (Visualizing Transformer Language Models)](https://jalammar.github.io/illustrated-gpt2/)
 - [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/pdf/1409.0473)
 - [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 
 **Tier 3**
 
+- ✨ [The Reversal Curse: LLMs trained on "A is B" fail to learn "B is A"](https://arxiv.org/abs/2309.12288)
 - [The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
-- [A Practical Survey on Faster and Lighter Transformers](https://arxiv.org/abs/2103.14636)
 - [TabPFN: A Transformer That Solves Small Tabular Classification Problems in a Second](https://arxiv.org/abs/2207.01848)
 - [Grokking: Generalization Beyond Overfitting on Small Algorithmic Datasets](https://arxiv.org/abs/2201.02177)
 - [A Mathematical Framework for Transformer Circuits](https://transformer-circuits.pub/2021/framework/index.html)
 
 <details><summary><strong>Tier 4+</strong></summary>
 
+- [A Practical Survey on Faster and Lighter Transformers](https://arxiv.org/abs/2103.14636)
 - [Compositional Capabilities of Autoregressive Transformers: A Study on Synthetic, Interpretable Tasks](https://arxiv.org/abs/2311.12997)
 - [Memorizing Transformers](https://arxiv.org/abs/2203.08913)
 - [Transformer Feed-Forward Layers Are Key-Value Memories](https://arxiv.org/abs/2012.14913)
@@ -115,21 +116,23 @@ Recommended reading order:
 **Tier 2**
 
 - ✨ [DeepSeek-R1](https://arxiv.org/abs/2501.12948) (DeepSeek-R1)
-- ✨ [LLaMA 2: Open Foundation and Fine-Tuned Chat Models](https://arxiv.org/abs/2307.09288) (LLaMA 2)
+- ✨ [DeepSeek-V3 Technical Report](https://arxiv.org/abs/2412.19437) (DeepSeek-V3)
+- ✨ [The Llama 3 Herd of Models](https://arxiv.org/abs/2407.21783) (Llama 3)
 - [LLaMA: Open and Efficient Foundation Language Models](http://arxiv.org/abs/2302.13971) (LLaMA)
-- [Evaluating Large Language Models Trained on Code](https://arxiv.org/abs/2107.03374) (OpenAI Codex)
 - [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155) (OpenAI Instruct)
 
 **Tier 3**
 
-- ✨ [DeepSeek-V3 Technical Report](https://arxiv.org/abs/2412.19437) (DeepSeek-V3)
+- ✨ [LLaMA 2: Open Foundation and Fine-Tuned Chat Models](https://arxiv.org/abs/2307.09288) (LLaMA 2)
+- ✨ [Qwen2.5 Technical Report](https://arxiv.org/abs/2412.15115) (Qwen2.5)
 - ✨ [Titans: Learning to Memorize at Test Time](https://arxiv.org/abs/2501.00663)
 - ✨ [Byte Latent Transformer](https://arxiv.org/abs/2412.09871)
-- [Mistral 7B](http://arxiv.org/abs/2310.06825) (Mistral)
 - ✨ [Phi-4 Technical Report](https://arxiv.org/abs/2412.08905) (phi-4)
 
 <details><summary><strong>Tier 4+</strong></summary>
 
+- [Evaluating Large Language Models Trained on Code](https://arxiv.org/abs/2107.03374) (OpenAI Codex)
+- [Mistral 7B](http://arxiv.org/abs/2310.06825) (Mistral)
 - [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/abs/1910.10683) (T5)
 - [Gemini: A Family of Highly Capable Multimodal Models](https://storage.googleapis.com/deepmind-media/gemini/gemini_1_report.pdf) (Gemini)
 - [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752v1) (Mamba)
@@ -158,8 +161,8 @@ Recommended reading order:
 
 **Tier 2**
 
-- [Tensor Programs V: Tuning Large Neural Networks via Zero-Shot Hyperparameter Transfer](https://arxiv.org/abs/2203.03466)
 - ✨ [Deep Learning Tuning Playbook](https://github.com/google-research/tuning_playbook)
+- [Tensor Programs V: Tuning Large Neural Networks via Zero-Shot Hyperparameter Transfer](https://arxiv.org/abs/2203.03466)
 - [Learning to summarise with human feedback](https://arxiv.org/abs/2009.01325)
 - [Training Verifiers to Solve Math Word Problems](https://arxiv.org/abs/2110.14168)
 
@@ -167,9 +170,9 @@ Recommended reading order:
 
 - ✨ [Better & Faster Large Language Models via Multi-token Prediction](https://arxiv.org/abs/2404.19737)
 - ✨ [LoRA vs Full Fine-tuning: An Illusion of Equivalence](https://arxiv.org/abs/2410.21228)
+- ✨ [QLoRA: Efficient Finetuning of Quantized LLMs](http://arxiv.org/abs/2305.14314)
 - [Pretraining Language Models with Human Preferences](http://arxiv.org/abs/2302.08582)
 - [Weak-to-Strong Generalization: Eliciting Strong Capabilities With Weak Supervision](http://arxiv.org/abs/2312.09390)
-- ✨ [QLoRA: Efficient Finetuning of Quantized LLMs](http://arxiv.org/abs/2305.14314)
 
 <details><summary><strong>Tier 4+</strong></summary>
 
@@ -207,19 +210,22 @@ Recommended reading order:
 
 **Tier 2**
 
+- ✨ [Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters](https://arxiv.org/abs/2408.03314)
 - [Chain of Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903)
 - [Large Language Models are Zero-Shot Reasoners](https://arxiv.org/abs/2205.11916) (Let's think step by step)
 - [Self-Consistency Improves Chain of Thought Reasoning in Language Models](https://arxiv.org/abs/2203.11171)
 
 **Tier 3**
 
-- [Chain-of-Thought Reasoning Without Prompting](http://arxiv.org/abs/2402.10200)
+- ✨ [s1: Simple test-time scaling](https://arxiv.org/abs/2501.19393)
+- ✨ [Cognitive Behaviors that Enable Self-Improving Reasoners, or, Four Habits of Highly Effective STaRs](https://arxiv.org/abs/2503.01307)
 - ✨ [The Surprising Effectiveness of Test-Time Training for Abstract Reasoning](https://arxiv.org/abs/2411.07279)
-- [Why think step-by-step? Reasoning emerges from the locality of experience](http://arxiv.org/abs/2304.03843)
 - ✨ [Large Language Models Cannot Self-Correct Reasoning Yet](https://arxiv.org/abs/2310.01798v1)
+- [Chain-of-Thought Reasoning Without Prompting](http://arxiv.org/abs/2402.10200)
 
 <details><summary><strong>Tier 4+</strong></summary>
 
+- [Why think step-by-step? Reasoning emerges from the locality of experience](http://arxiv.org/abs/2304.03843)
 - [Baldur: Whole-Proof Generation and Repair with Large Language Models](https://arxiv.org/abs/2303.04910v1)
 - [Bias-Augmented Consistency Training Reduces Biased Reasoning in Chain-of-Thought](http://arxiv.org/abs/2403.05518)
 - [Certified Reasoning with Language Models](http://arxiv.org/abs/2306.04031)
@@ -283,9 +289,10 @@ Recommended reading order:
 
 **Tier 3**
 
-- [Debate Helps Supervise Unreliable Experts](https://twitter.com/joshua_clymer/status/1724851456967417872)
+- ✨ [Avoiding Obfuscation with Prover-Estimator Debate](https://arxiv.org/abs/2506.13609)
 - ✨ [Improving Factuality and Reasoning in Language Models through Multiagent Debate](http://arxiv.org/abs/2305.14325)
 - ✨ [Prover-Verifier Games Improve Legibility of LLM Outputs](https://arxiv.org/abs/2407.13692)
+- [Debate Helps Supervise Unreliable Experts](https://twitter.com/joshua_clymer/status/1724851456967417872)
 
 <details><summary><strong>Tier 4+</strong></summary>
 
@@ -303,6 +310,9 @@ Recommended reading order:
 
 **Tier 3**
 
+- ✨ [Executable Code Actions Elicit Better LLM Agents](https://arxiv.org/abs/2402.01030)
+- ✨ [GEPA: Reflective Prompt Evolution Can Outperform Reinforcement Learning](https://arxiv.org/abs/2507.19457)
+- ✨ [TextGrad: Automatic "Differentiation" via Text](https://arxiv.org/abs/2406.07496)
 - [AI capabilities can be significantly improved without expensive retraining](http://arxiv.org/abs/2312.07413)
 - [Automated Statistical Model Discovery with Language Models](http://arxiv.org/abs/2402.17879)
 
@@ -340,14 +350,15 @@ Recommended reading order:
 
 **Tier 2**
 
+- ✨ [AlphaEvolve: A coding agent for scientific and algorithmic discovery](https://arxiv.org/abs/2506.13131)
 - ✨ [AlphaFold 3: Accurate structure prediction of biomolecular interactions](https://www.nature.com/articles/s41586-024-07487-w)
 
 **Tier 3**
 
+- ✨ [Towards an AI Co-Scientist](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/towards-an-ai-co-scientist/Towards_an_AI_Co-Scientist.pdf)
 - [Can large language models provide useful feedback on research papers? A large-scale empirical analysis](http://arxiv.org/abs/2310.01783)
 - [Large Language Models Encode Clinical Knowledge](http://arxiv.org/abs/2212.13138)
 - [The Impact of Large Language Models on Scientific Discovery: a Preliminary Study using GPT-4](http://arxiv.org/abs/2311.07361)
-- ✨ [Towards an AI Co-Scientist](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/towards-an-ai-co-scientist/Towards_an_AI_Co-Scientist.pdf)
 - [A Dataset of Information-Seeking Questions and Answers Anchored in Research Papers](https://arxiv.org/abs/2105.03011)
 
 <details><summary><strong>Tier 4+</strong></summary>
@@ -373,10 +384,17 @@ Recommended reading order:
 
 **Tier 3**
 
+- ✨ [Consistency Checks for Language Model Forecasters](https://arxiv.org/abs/2412.18544)
+- ✨ [LLM Processes: Numerical Predictive Distributions Conditioned on Natural Language](https://arxiv.org/abs/2405.12856)
 - [AI-Augmented Predictions: LLM Assistants Improve Human Forecasting Accuracy](https://arxiv.org/abs/2402.07862v1)
 - [Approaching Human-Level Forecasting with Language Models](http://arxiv.org/abs/2402.18563)
-- [Are Transformers Effective for Time Series Forecasting?](https://arxiv.org/abs/2205.13504)
 - [Forecasting Future World Events with Neural Networks](https://arxiv.org/abs/2206.15474)
+
+<details><summary><strong>Tier 4+</strong></summary>
+
+- [Are Transformers Effective for Time Series Forecasting?](https://arxiv.org/abs/2205.13504)
+
+</details>
 
 ### Search and ranking
 
@@ -416,12 +434,7 @@ Recommended reading order:
 **Tier 2**
 
 - [Designing Data-Intensive Applications](https://dataintensive.net/)
-- [Deep Learning Tuning Playbook](https://github.com/google-research/tuning_playbook)
-- [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/)
-
-**Tier 3**
-
-- ✨ [How I use LLMs](https://www.youtube.com/watch?v=EWvNQjAaOHw)
+- [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/) (Karpathy)
 
 ### Benchmarks
 
@@ -462,10 +475,10 @@ Recommended reading order:
 
 **Tier 3**
 
+- ✨ [FineWeb: Decanting the Web for the Finest Text Data at Scale](https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1)
 - [Dialog Inpainting: Turning Documents into Dialogs](https://arxiv.org/abs/2205.09073)
 - [MS MARCO: A Human Generated MAchine Reading COmprehension Dataset](https://arxiv.org/abs/1611.09268)
 - [Microsoft Academic Graph](https://internal-journal.frontiersin.org/articles/10.3389/fdata.2019.00045/full)
-- ✨ [FineWeb: Decanting the Web for the Finest Text Data at Scale](https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1)
 
 ## Advanced topics
 
@@ -507,14 +520,15 @@ Recommended reading order:
 
 **Tier 3**
 
+- ✨ [Textual Bayes: Quantifying Uncertainty in LLM-Based Systems](https://arxiv.org/abs/2506.10060)
 - [Active Preference Inference using Language Models and Probabilistic Reasoning](http://arxiv.org/abs/2312.12009)
 - [Eliciting Human Preferences with Language Models](http://arxiv.org/abs/2310.11589)
-- [Active Learning by Acquiring Contrastive Examples](https://arxiv.org/abs/2109.03764)
 - [Describing Differences between Text Distributions with Natural Language](https://arxiv.org/abs/2201.12323)
 - [Teaching Models to Express Their Uncertainty in Words](https://arxiv.org/abs/2205.14334)
 
 <details><summary><strong>Tier 4+</strong></summary>
 
+- [Active Learning by Acquiring Contrastive Examples](https://arxiv.org/abs/2109.03764)
 - [Doing Experiments and Revising Rules with Natural Language and Probabilistic Reasoning](http://arxiv.org/abs/2402.06025)
 - [STaR-GATE: Teaching Language Models to Ask Clarifying Questions](http://arxiv.org/abs/2403.19154)
 - [Active Testing: Sample-Efficient Model Evaluation](https://arxiv.org/abs/2103.05331)
@@ -527,16 +541,16 @@ Recommended reading order:
 **Tier 2**
 
 - ✨ [Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet](https://transformer-circuits.pub/2024/scaling-monosemanticity/)
-- [Discovering Latent Knowledge in Language Models Without Supervision](https://arxiv.org/abs/2212.03827v1)
 - ✨ [Interpretability at Scale: Identifying Causal Mechanisms in Alpaca](http://arxiv.org/abs/2305.08809)
+- [Discovering Latent Knowledge in Language Models Without Supervision](https://arxiv.org/abs/2212.03827v1)
 
 **Tier 3**
 
+- ✨ [Scaling and Evaluating Sparse Autoencoders](https://cdn.openai.com/papers/sparse-autoencoders.pdf)
+- ✨ [Opening the AI black box: program synthesis via mechanistic interpretability](https://arxiv.org/abs/2402.05110v1)
 - [Mechanistically analyzing the effects of fine-tuning on procedurally defined tasks](http://arxiv.org/abs/2311.12786)
 - [Representation Engineering: A Top-Down Approach to AI Transparency](http://arxiv.org/abs/2310.01405)
-- ✨ [Scaling and Evaluating Sparse Autoencoders](https://cdn.openai.com/papers/sparse-autoencoders.pdf)
 - [Studying Large Language Model Generalization with Influence Functions](http://arxiv.org/abs/2308.03296)
-- ✨ [Opening the AI black box: program synthesis via mechanistic interpretability](https://arxiv.org/abs/2402.05110v1)
 
 <details><summary><strong>Tier 4+</strong></summary>
 
@@ -557,6 +571,7 @@ Recommended reading order:
 
 **Tier 2**
 
+- ✨ [DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models](https://arxiv.org/abs/2402.03300) (GRPO)
 - [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](http://arxiv.org/abs/2305.18290)
 - [Reflexion: Language Agents with Verbal Reinforcement Learning](http://arxiv.org/abs/2303.11366)
 - [Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm](https://arxiv.org/abs/1712.01815) (AlphaZero)
@@ -601,6 +616,7 @@ Recommended reading order:
 
 **Tier 3**
 
+- ✨ [Pre-training under Infinite Compute](https://arxiv.org/abs/2509.14786)
 - [Emergent Abilities of Large Language Models](https://arxiv.org/abs/2206.07682)
 - [Transcending Scaling Laws with 0.1% Extra Compute](https://arxiv.org/abs/2210.11399) (U-PaLM)
 
@@ -635,11 +651,13 @@ Recommended reading order:
 - ✨ [Alignment Faking in Large Language Models](https://arxiv.org/abs/2412.14093)
 - ✨ [Constitutional Classifiers: Defending against Universal Jailbreaks](https://arxiv.org/abs/2501.18837)
 - ✨ [Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs](https://arxiv.org/abs/2502.17424)
+- ✨ [Gradual Disempowerment: Systemic Existential Risks from Incremental AI Development](https://arxiv.org/abs/2501.16946)
 - [Scheming AIs: Will AIs fake alignment during training in order to get power?](http://arxiv.org/abs/2311.08379)
-- [Measuring Progress on Scalable Oversight for Large Language Models](https://arxiv.org/abs/2211.03540)
 
 <details><summary><strong>Tier 4+</strong></summary>
 
+- [Towards a Law of Iterated Expectations for Heuristic Estimators](https://arxiv.org/abs/2410.01290)
+- [Measuring Progress on Scalable Oversight for Large Language Models](https://arxiv.org/abs/2211.03540)
 - [Scalable agent alignment via reward modelling](https://arxiv.org/abs/1811.07871)
 - [AI Deception: A Survey of Examples, Risks, and Potential Solutions](http://arxiv.org/abs/2308.14752)
 - [Benchmarks for Detecting Measurement Tampering](http://arxiv.org/abs/2308.15605)
@@ -664,13 +682,15 @@ Recommended reading order:
 
 ### Economic and social impacts
 
+**Tier 2**
+
+- ✨ [AI 2027](https://ai-2027.com/)
+- ✨ [Situational Awareness](https://situational-awareness.ai/) (Aschenbrenner)
+
 **Tier 3**
 
 - [Explosive growth from AI automation: A review of the arguments](http://arxiv.org/abs/2309.11690)
 - [Language Models Can Reduce Asymmetry in Information Markets](http://arxiv.org/abs/2403.14443)
-- ✨ [AI 2027](https://ai-2027.com/)
-- ✨ [Power to the People](https://karpathy.ai/blog/frontier.html) (Karpathy)
-- ✨ [Situational Awareness](https://situational-awareness.ai/) (Aschenbrenner)
 
 <details><summary><strong>Tier 4+</strong></summary>
 
